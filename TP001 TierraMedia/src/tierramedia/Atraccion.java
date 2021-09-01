@@ -12,5 +12,8 @@ public abstract class Atraccion {
 		this.tiempoMedio = tiempoMedio;
 		this.cupoMax = cupoMax;
 	}
+	
+	public void MiMetodo(){
+	}
 
 }
